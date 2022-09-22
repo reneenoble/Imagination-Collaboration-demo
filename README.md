@@ -11,10 +11,9 @@ Once you've done that you can submit it as a **new Issue** to this repo to enter
 ## Brainstorm board
 **To help you along, here's a link to all the ideas we generated together. Take a look through and find the ones you're most passionate about.**
 
-[See the brainstorm here in full size](https://github.com/reneenoble/Imagination-Collaboration-demo/Imagination-Collaboration-Demo.png).
-<img src="https://github.com/reneenoble/Imagination-Collaboration-demo/Imagination-Collaboration-Demo.png" style="width: 500px;">
+[See the brainstorm here in full size](Imagination-Collaboration-Demo.png).
 
-<br>
+![Brainstorm of ideas for helping pet owners with technology](Imagination-Collaboration-Demo.png)
 
 
 ## Example pitches
