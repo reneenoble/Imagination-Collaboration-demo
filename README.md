@@ -13,7 +13,7 @@ Once you've done that you can submit it as a **new Issue** to this repo to enter
 
 [See the brainstorm here in full size](https://github.com/reneenoble/Imagination-Collaboration-demo/blob/main/Imagination-Collaboration-Demo.png?raw=true).
 
-![Brainstorm of ideas for helping pet owners with technology](Imagination-Collaboration-Demo.png)
+![Brainstorm of ideas for helping pet owners with technology](https://github.com/reneenoble/Imagination-Collaboration-demo/blob/main/Imagination-Collaboration-Demo.png?raw=true)
 
 
 ## Example pitches
